@@ -1,9 +1,10 @@
+import Head from "next/head";
+import { getAllPosts } from "../lib/api";
 import Preamble from "../components/preamble";
-import { Head } from "next/document";
 import PageSection from "../components/page-section";
 import PostPreview from "../components/post-preview";
 
-export default function IndexPage() {
+export default function IndexPage({ allPosts }) {
   return (
     <>
       <Head>
@@ -18,9 +19,30 @@ export default function IndexPage() {
           </p>
         </Preamble>
         <PageSection title="All Posts">
-          <PostPreview title="Some Post" excerpt="fuck" />
+          {allPosts.map((post) => (
+            <PostPreview
+              key={post.slug}
+              slug={post.slug}
+              title={post.title}
+              excerpt={post.excerpt}
+            />
+          ))}
         </PageSection>
       </section>
     </>
   );
+}
+
+export async function getStaticProps() {
+  const allPosts = getAllPosts([
+    "title",
+    "date",
+    "slug",
+    "author",
+    "coverImage",
+    "excerpt",
+  ]);
+  return {
+    props: { allPosts },
+  };
 }

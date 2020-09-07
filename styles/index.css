@@ -20,6 +20,18 @@
   }
 } */
 
+h1 {
+  @apply text-5xl font-serif font-semibold;
+}
+
+p {
+  @apply font-sans my-4;
+}
+
+h2 {
+  @apply font-serif text-3xl;
+}
+
 /* Start purging... */
 @tailwind components;
 /* Stop purging. */

@@ -9,7 +9,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "set-git": " git config --global user.email 'myles.linder@gmail.com' &&  open -a 'Keychain Access'"
   },
   "dependencies": {
     "next": "^9.5.3",

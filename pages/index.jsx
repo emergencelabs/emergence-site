@@ -1,8 +1,8 @@
-import Head from "next/head";
-import { getAllPosts } from "../lib/api";
-import Preamble from "../components/preamble";
-import PageSection from "../components/page-section";
-import PostPreview from "../components/post-preview";
+import Head from "next/head"
+import { getAllPosts } from "../lib/api"
+import Preamble from "../components/preamble"
+import PageSection from "../components/page-section"
+import PostPreview from "../components/post-preview"
 
 export default function IndexPage({ allPosts }) {
   return (
@@ -66,7 +66,7 @@ export default function IndexPage({ allPosts }) {
         </PageSection>
       </section>
     </>
-  );
+  )
 }
 
 export async function getStaticProps() {
@@ -76,9 +76,9 @@ export async function getStaticProps() {
     "slug",
     "author",
     "coverImage",
-    "excerpt",
-  ]);
+    "excerpt"
+  ])
   return {
-    props: { allPosts },
-  };
+    props: { allPosts }
+  }
 }

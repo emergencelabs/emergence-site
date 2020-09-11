@@ -9,9 +9,6 @@ export default function Footer() {
           className="flex flex-col justify-between min-h-full items-stretch mb-12 md:mb-0"
         >
           <img src="/assets/emergence.svg" alt="Emergence Labs Wordmark Logo" />
-          <a href="mailto:success@emergencelabs.io" className="font-semibold">
-            success@emergencelabs.io
-          </a>
         </div>
         <div
           className="flex justify-around items-start max-w-xl md:flex-row flex-col"
@@ -38,6 +35,20 @@ export default function Footer() {
           </div>
         </div>
       </div>
+      <a href="mailto:success@emergencelabs.io" className="font-semibold">
+        success@emergencelabs.io
+      </a>
+      <p className="text-xs mt-4 mb-1">
+        Made with
+        <span role="img" aria-label="heart" className="mx-2">
+          ❤️
+        </span>
+        in
+        <span role="img" aria-label="canadian flag" className="mx-2">
+          🇨🇦
+        </span>
+      </p>
+      <p className="text-xs">© Emergence Labs 2020</p>
     </footer>
   )
 }

@@ -43,7 +43,7 @@ export default function Preamble({ title, children }) {
     <section className="flex items-center justify-between mt-32 mb-20 slanted max-w-screen-xl mx-auto">
       <div className="mx-12 max-w-xl typewriter">
         <h1 className="text-emrg-purple flex flex-wrap">
-          <span>Better</span>
+          <span className="sm:py-2">Better</span>
           <span
             id="typing"
             ref={titleRef}

@@ -17,7 +17,7 @@ export default function PageSubSection({
             src="/assets/videos/success-desk.mp4"
             autoPlay
             loop
-            className="w-full border-gray-300 bg-white rounded-lg"
+            className="w-full border border-gray-300 bg-white rounded-lg"
           ></video>
         </div>
         <div className="flex-1 mx-6 max-w-xl">

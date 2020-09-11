@@ -18,7 +18,7 @@ export default function ConsultingServices({
           </h3>
           {children}
         </div>
-        <div className="max-w-md">
+        <div className="max-w-xl">
           <img src={imageSrc} alt={imgAlt} />
         </div>
       </div>
@@ -27,10 +27,8 @@ export default function ConsultingServices({
           Our Implementation Packages
         </h5>
         <p>
-          We offer packages for some reason and that will be explained here...
-        </p>
-        <p>
-          All our packages are <i>configurable and extendable</i> as we
+          We offer packages for some reason and that will be explained
+          here...All our packages are <i>configurable and extendable</i> as we
           understand every business has unique needs.
         </p>
       </div>

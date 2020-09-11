@@ -34,15 +34,19 @@ export default function Preamble({ title, children }) {
           charIndex = keywords[keywordIndex].length - 1
         }
       }
-    }, 200)
+    }, 150)
     return () => clearInterval(intervalId)
   }, [])
   return (
     <section className="flex items-center justify-between mt-32 mb-20 slanted ">
       <div className="mx-12 max-w-xl typewriter">
         <h1 className="text-emrg-purple">
-          Better{" "}
-          <span id="typing" ref={titleRef} className="pl-4">
+          <span>Better</span>
+          <span
+            id="typing"
+            ref={titleRef}
+            className="mx-4 bg-gray-200 p-2 rounded-r-none rounded-l-md"
+          >
             {keywords[keywordIndex]}
           </span>{" "}
           <span className="block">Through Technology</span>

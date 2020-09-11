@@ -126,8 +126,6 @@ export default function IndexPage({ allPosts }) {
 
         <Testimonial />
 
-        <LogoGrid />
-
         <section className="px-12 relative">
           <PageSection title="Our Products">
             <a href="#">

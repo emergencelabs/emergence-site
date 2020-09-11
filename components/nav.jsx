@@ -17,7 +17,7 @@ export default function Nav() {
   }
 
   return (
-    <nav className="flex justify-between my-4 sm:px-12 p-8 items-center flex-row-reverse md:flex-row max-w-screen-xl">
+    <nav className="flex justify-between my-4 sm:px-12 p-8 items-center flex-row-reverse md:flex-row max-w-screen-xl mx-auto">
       <div
         style={{ flexBasis: "25%", minWidth: "12rem" }}
         className="sm:max-w-xs"

@@ -40,7 +40,7 @@ export default function Preamble({ title, children }) {
     }
   }, [])
   return (
-    <section className="flex items-center justify-between mt-32 mb-20 slanted ">
+    <section className="flex items-center justify-between mt-32 mb-20 slanted max-w-screen-xl mx-auto">
       <div className="mx-12 max-w-xl typewriter">
         <h1 className="text-emrg-purple flex flex-wrap">
           <span>Better</span>

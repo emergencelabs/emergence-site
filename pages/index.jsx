@@ -17,7 +17,7 @@ export default function IndexPage({ allPosts }) {
         <title>Emergence Labs</title>
       </Head>
 
-      <section className="max-w-screen-xl mx-auto">
+      <section>
         <Preamble title="Better Business Through Technology">
           <p className="font-sans leading-loose max-w-xl mb-12">
             Emergence Labs is a technology consulting firm enhancing all aspects

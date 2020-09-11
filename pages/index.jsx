@@ -84,7 +84,7 @@ export default function IndexPage({ allPosts }) {
           <div className="mx-auto max-w-screen-xl">
             <ConsultingServices
               title="Salesforce Consulting & Implementation"
-              imageSrc="/assets/backgrounds/working-with-overlay.png"
+              imageSrc="/assets/salesforce.svg"
               imgAlt="People working with icons overlayed"
             >
               <p className="leading-loose">

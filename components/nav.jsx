@@ -1,3 +1,4 @@
+import Link from "next/link"
 import NavButton from "../components/nav-button"
 import MenuIcon from "./icons/menu"
 import { useState } from "react"
@@ -22,7 +23,14 @@ export default function Nav() {
         style={{ flexBasis: "25%", minWidth: "12rem" }}
         className="sm:max-w-xs"
       >
-        <img src="/assets/emergence.svg" alt="Emergence Labs Wordmark Logo" />
+        <Link href="/">
+          <a>
+            <img
+              src="/assets/emergence.svg"
+              alt="Emergence Labs Wordmark Logo"
+            />
+          </a>
+        </Link>
       </div>
       <div className="hidden md:block">
         <NavButton href="/about" label="About" />

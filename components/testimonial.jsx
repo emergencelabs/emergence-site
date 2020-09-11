@@ -5,7 +5,7 @@ export default function Testimonial() {
         <img
           src="/assets/circles.svg"
           alt="Decorative purple cirlces"
-          className="sm:absolute hidden"
+          className="absolute hidden sm:block"
           style={{ right: "2rem", top: "-1rem", maxWidth: "3rem" }}
         />
         <img

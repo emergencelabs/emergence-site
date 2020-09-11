@@ -18,7 +18,8 @@ export default function ConsultingServices({
           </h3>
           {children}
         </div>
-        <div className="max-w-xl hidden lg:block">
+
+        <div className="max-w-xl hidden lg:flex tablet-illustration">
           <img src={imageSrc} alt={imgAlt} />
         </div>
       </div>

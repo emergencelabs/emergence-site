@@ -36,9 +36,9 @@ export default function ConsultingServices({
         <a href="https://emergencelabs.io">
           <div className="mb-6 mx-4 flex sm:flex-row flex-col justify-around items-center border border-gray-300 bg-white rounded-lg p-4 hover:shadow-md duration-500 ease-in-out transition-shadow">
             <img
-              src="/assets/rocket.png"
-              alt="Emergence Labs Logo"
-              className="w-16 mx-4"
+              src="/assets/ship-icon.svg"
+              alt="Spaceship Icon"
+              className="w-16 mx-4 my-8 py-1"
             />
             <div className="flex-grow mt-4 sm:mt-0 text-center sm:text-left">
               <h6 className="font-semibold">Launch Pad Package</h6>
@@ -53,8 +53,8 @@ export default function ConsultingServices({
         <a href="https://emergencelabs.io">
           <div className="mb-6 mx-4 flex sm:flex-row flex-col justify-around items-center border border-gray-300 bg-white rounded-lg p-4 hover:shadow-md duration-500 ease-in-out transition-shadow">
             <img
-              src="/assets/rocket.png"
-              alt="Emergence Labs Logo"
+              src="/assets/icon-rocket.svg"
+              alt="Rocket Icon"
               className="w-16 mx-4"
             />
             <div className="flex-grow mt-4 sm:mt-0 text-center sm:text-left">

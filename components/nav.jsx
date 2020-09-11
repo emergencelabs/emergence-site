@@ -18,10 +18,10 @@ export default function Nav() {
   }
 
   return (
-    <nav className="flex justify-between my-4 sm:px-12 p-8 items-center flex-row-reverse md:flex-row max-w-screen-xl mx-auto">
+    <nav className="flex justify-between my-4 sm:px-12 p-8 items-center flex-row-reverse md:flex-row  sticky border-b border-b-emrg-light-grey shadow-sm top-0 left-0 bg-white z-50">
       <div
         style={{ flexBasis: "25%", minWidth: "12rem" }}
-        className="sm:max-w-xs"
+        className="sm:max-w-xs z-10"
       >
         <Link href="/">
           <a>
@@ -32,7 +32,7 @@ export default function Nav() {
           </a>
         </Link>
       </div>
-      <div className="hidden md:block">
+      <div className="hidden md:block z-10">
         <NavButton href="/about" label="About" />
         <NavButton href="/blog" label="Services" />
         <NavButton href="/blog" label="Contact Us" />

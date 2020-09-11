@@ -8,8 +8,8 @@ export default function PageSubSection({
   return (
     <div className="">
       <div
-        className={`flex justify-around items-center my-8 ${
-          reverse ? "flex-row-reverse" : ""
+        className={`lg:flex-row-reverse flex flex-col-reverse justify-around items-center my-8 ${
+          reverse ? "" : ""
         }`}
       >
         <div className="max-w-2xl">
@@ -17,7 +17,7 @@ export default function PageSubSection({
             src="/assets/videos/success-desk.mp4"
             autoPlay
             loop
-            className="w-full border border-gray-300 bg-white rounded-lg"
+            className="w-full border border-gray-300 bg-white rounded-lg mt-4 lg:mt-0"
           ></video>
         </div>
         <div className="flex-1 mx-6 max-w-xl">

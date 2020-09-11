@@ -18,7 +18,7 @@ export default function ConsultingServices({
           </h3>
           {children}
         </div>
-        <div className="max-w-xl">
+        <div className="max-w-xl hidden lg:block">
           <img src={imageSrc} alt={imgAlt} />
         </div>
       </div>
@@ -32,15 +32,15 @@ export default function ConsultingServices({
           understand every business has unique needs.
         </p>
       </div>
-      <div className="flex justify-around">
+      <div className="flex justify-around md:flex-row flex-col">
         <a href="https://emergencelabs.io">
-          <div className="mb-6 mx-4 flex justify-around items-center border border-gray-300 bg-white rounded-lg p-4 hover:shadow-md duration-500 ease-in-out transition-shadow">
+          <div className="mb-6 mx-4 flex sm:flex-row flex-col justify-around items-center border border-gray-300 bg-white rounded-lg p-4 hover:shadow-md duration-500 ease-in-out transition-shadow">
             <img
               src="/assets/rocket.png"
               alt="Emergence Labs Logo"
               className="w-16 mx-4"
             />
-            <div className="flex-grow">
+            <div className="flex-grow mt-4 sm:mt-0 text-center sm:text-left">
               <h6 className="font-semibold">Launch Pad Package</h6>
               <p className="my-2 text-sm leading-loose">
                 Emergence Labs offers Salesforce Consulting and Development for
@@ -51,13 +51,13 @@ export default function ConsultingServices({
           </div>
         </a>
         <a href="https://emergencelabs.io">
-          <div className="mb-6 mx-4 flex justify-around items-center border border-gray-300 bg-white rounded-lg p-4 hover:shadow-md duration-500 ease-in-out transition-shadow">
+          <div className="mb-6 mx-4 flex sm:flex-row flex-col justify-around items-center border border-gray-300 bg-white rounded-lg p-4 hover:shadow-md duration-500 ease-in-out transition-shadow">
             <img
               src="/assets/rocket.png"
               alt="Emergence Labs Logo"
               className="w-16 mx-4"
             />
-            <div className="flex-grow">
+            <div className="flex-grow mt-4 sm:mt-0 text-center sm:text-left">
               <h6 className="font-semibold">Lift-Off Package</h6>
               <p className="my-2 text-sm leading-loose">
                 Emergence Labs offers Salesforce Consulting and Development for

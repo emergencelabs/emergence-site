@@ -1,23 +1,28 @@
-const defaultTheme = require("tailwindcss/defaultTheme");
+const defaultTheme = require("tailwindcss/defaultTheme")
 
 module.exports = {
   future: {
     removeDeprecatedGapUtilities: true,
-    purgeLayersByDefault: true,
+    purgeLayersByDefault: true
   },
   purge: ["./components/**/*.{js,ts,jsx,tsx}", "./pages/**/*.{js,ts,jsx,tsx}"],
   theme: {
     fontFamily: {
       sans: ["Inter", ...defaultTheme.fontFamily.sans],
       serif: ["Source Serif Pro", ...defaultTheme.fontFamily.serif],
-      mono: [...defaultTheme.fontFamily.mono],
+      mono: [...defaultTheme.fontFamily.mono]
     },
     extend: {
       colors: {
-        "accent-1": "#333",
-      },
-    },
+        "emrg-purple": "#463EA9",
+        "emrg-light-purple": "#E3E1FF",
+        "emrg-black": "#3B3B3B",
+        "emrg-light-grey": "#f7f7f7"
+      }
+    }
   },
-  variants: {},
-  plugins: [],
-};
+  variants: {
+    opacity: ["responsive", "hover", "focus", "group-hover"]
+  },
+  plugins: []
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="357px" height="365px" viewBox="0 0 357 365" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>dashes</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashes" transform="translate(0.024238, 0.206371)">
+            <rect id="Rectangle" fill="#706AC3" opacity="0.3" transform="translate(118.611496, 90.971260) scale(-1, 1) translate(-118.611496, -90.971260) " x="-1.05160325e-12" y="9.9475983e-14" width="237.222992" height="181.942521"></rect>
+            <rect id="Rectangle" fill="#463EA9" opacity="0.3" transform="translate(147.503463, 272.913781) scale(-1, 1) translate(-147.503463, -272.913781) " x="24.5034626" y="181.942521" width="246" height="181.942521"></rect>
+            <rect id="Rectangle" fill="#908BCB" transform="translate(201.532202, 171.745152) scale(-1, 1) translate(-201.532202, -171.745152) " x="46.6932133" y="155.644044" width="309.677978" height="32.2022161"></rect>
+            <rect id="Rectangle" fill="#908BCB" transform="translate(201.532202, 228.367382) scale(-1, 1) translate(-201.532202, -228.367382) " x="46.6932133" y="205.557479" width="309.677978" height="45.6198061"></rect>
+            <rect id="Rectangle" fill="#908BCB" transform="translate(201.532202, 294.918629) scale(-1, 1) translate(-201.532202, -294.918629) " x="46.6932133" y="272.108726" width="309.677978" height="45.6198061"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="388px" viewBox="0 0 125 388" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>circles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B4AAFF" offset="0%"></stop>
+            <stop stop-color="#7C71FF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="61.9892659" cy="62.2576177" r="61.9892659"></circle>
+        <circle id="path-4" cx="61.9892659" cy="62.2576177" r="61.9892659"></circle>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#B3AAFF" offset="0%"></stop>
+            <stop stop-color="#7C71FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="circles">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="61.9892659" cy="61.9892659" r="61.9892659"></circle>
+            <g id="Rectangle" transform="translate(1.073407, 262.984765)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Mask"></g>
+                <rect fill="#908BCB" mask="url(#mask-3)" x="-10.1973684" y="69.2347645" width="149.203601" height="71.3815789"></rect>
+            </g>
+            <g id="Rectangle" transform="translate(0.000000, 178.185596)">
+                <mask id="mask-5" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <g id="Mask"></g>
+                <rect fill="url(#linearGradient-6)" mask="url(#mask-5)" x="-10.1973684" y="69.2347645" width="149.203601" height="71.3815789"></rect>
+            </g>
+            <circle id="Oval" fill="#463EA9" cx="61.9892659" cy="185.967798" r="61.9892659"></circle>
+        </g>
+    </g>
+</svg>

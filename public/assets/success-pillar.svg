@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="26px" viewBox="0 0 132 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="49.5998561%" x2="101.999998%" y2="50.4081468%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-540.000000, -465.000000)">
+            <g id="81fc4fea7f32d9e004c097b0d7666257" transform="translate(490.000000, 417.000000)">
+                <g id="Group-2" transform="translate(50.009678, 48.850000)">
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" x="32.4903224" y="0.82" width="99.04" height="8.86"></rect>
+                    <rect id="Rectangle" fill="#C16AD6" x="32.4903224" y="14.69" width="57.34" height="8.86"></rect>
+                    <path d="M12.1803224,-5.32907052e-15 C7.25124546,-5.32907052e-15 2.80808933,2.97083315 0.924628069,7.52587139 C-0.958833187,12.0809096 0.0887462572,17.3220903 3.57842498,20.8031737 C7.06810371,24.2842572 12.3118518,25.3189082 16.8622314,23.4242196 C21.412611,21.5295309 24.372463,17.079062 24.3603596,12.15 C24.3328289,5.43945665 18.8909132,0.0109446619 12.1803224,-5.32907052e-15 L12.1803224,-5.32907052e-15 Z" id="Path" fill="#646463"></path>
+                    <polygon id="Path" fill="#FBFAF9" points="10.6103224 17.54 5.39032241 12.32 7.74032241 9.97 10.6103224 12.84 16.6203224 6.83 18.9703224 9.18"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

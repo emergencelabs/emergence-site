@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="736px" height="395px" viewBox="0 0 736 395" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="1">
+        <g id="triangles" transform="translate(0.040859, 0.036704)" fill="#232323">
+            <polygon id="Triangle" points="641.629155 259.963296 735.820637 394.139197 547.437673 394.139197"></polygon>
+            <polygon id="Triangle" points="553.073061 127.198753 647.264543 261.374654 458.881579 261.374654"></polygon>
+            <polygon id="Triangle" points="181.137465 133.102493 275.328947 267.278393 86.9459834 267.278393"></polygon>
+            <polygon id="Triangle" points="361.469875 133.102493 455.661357 267.278393 267.278393 267.278393"></polygon>
+            <polygon id="Triangle" points="272.913781 -7.10542736e-14 367.105263 134.1759 178.722299 134.1759"></polygon>
+            <polygon id="Triangle" points="461.296745 260.301247 555.488227 394.477147 367.105263 394.477147"></polygon>
+            <polygon id="Triangle" points="274.523892 260.301247 368.715374 394.477147 180.33241 394.477147"></polygon>
+            <polygon id="Triangle" points="94.191482 260.301247 188.382964 394.477147 1.5063506e-12 394.477147"></polygon>
+        </g>
+    </g>
+</svg>

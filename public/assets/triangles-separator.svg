@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5348px" height="1575px" viewBox="0 0 5348 1575" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <rect id="Rectangle" stroke="#463EA9" stroke-width="18" transform="translate(2406.500000, 858.500000) rotate(-45.000000) translate(-2406.500000, -858.500000) " x="2217" y="669" width="379" height="379"></rect>
+            <g id="Group-3" transform="translate(2616.603704, 1052.500000) rotate(-180.000000) translate(-2616.603704, -1052.500000) translate(1307.603704, 684.000000)">
+                <polygon id="Triangle" fill="#FFFFFF" opacity="0.2" points="1749.5 248 1925 498 1574 498"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" points="2085.5 248 2261 498 1910 498"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" points="1920.5 8.24229573e-12 2096 250 1745 250"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" opacity="0.2" points="2271.5 485 2447 735 2096 735"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" opacity="0.2" points="2442.5 237 2618 487 2267 487"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" opacity="0.2" points="1398.1037 237 1573.6037 487 1222.6037 487"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" opacity="0.2" transform="translate(1047.103704, 612.000000) scale(1, -1) translate(-1047.103704, -612.000000) " points="1047.1037 487 1222.6037 737 871.603704 737"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" opacity="0.2" transform="translate(184.103704, 567.000000) scale(1, -1) translate(-184.103704, -567.000000) " points="184.103704 442 367.603704 692 0.6037044 692"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" opacity="0.2" points="1923.5 485 2099 735 1748 735"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" opacity="0.2" points="1587.5 485 1763 735 1412 735"></polygon>
+            </g>
+            <g id="Group-6" transform="translate(603.500000, 957.000000) rotate(90.000000) translate(-603.500000, -957.000000) translate(112.000000, 354.000000)">
+                <g id="Group-3" transform="translate(491.500000, 603.000000) rotate(-90.000000) translate(-491.500000, -603.000000) translate(-111.500000, 111.500000)">
+                    <polygon id="Triangle" fill="#3B3B3B" opacity="0.2" points="337.5 248 513 498 162 498"></polygon>
+                    <polygon id="Triangle" fill="#3B3B3B" opacity="0.2" points="673.5 248 849 498 498 498"></polygon>
+                    <polygon id="Triangle" fill="#3B3B3B" opacity="0.2" points="508.5 0 684 250 333 250"></polygon>
+                    <polygon id="Triangle" fill="#3B3B3B" points="859.5 485 1035 735 684 735"></polygon>
+                    <polygon id="Triangle" fill="#3B3B3B" opacity="0.2" points="1030.5 237 1206 487 855 487"></polygon>
+                    <polygon id="Triangle" fill="#3B3B3B" points="511.5 485 687 735 336 735"></polygon>
+                    <polygon id="Triangle" fill="#3B3B3B" points="175.5 485 351 735 0 735"></polygon>
+                    <polygon id="Triangle" fill="#FFFFFF" transform="translate(859.500000, 858.000000) scale(1, -1) translate(-859.500000, -858.000000) " points="859.5 733 1035 983 684 983"></polygon>
+                    <polygon id="Triangle" fill="#FFFFFF" transform="translate(511.500000, 858.000000) scale(1, -1) translate(-511.500000, -858.000000) " points="511.5 733 687 983 336 983"></polygon>
+                    <polygon id="Triangle" fill="#FFFFFF" transform="translate(175.500000, 858.000000) scale(1, -1) translate(-175.500000, -858.000000) " points="175.5 733 351 983 0 983"></polygon>
+                </g>
+            </g>
+            <g id="Group-6" transform="translate(3967.500000, 367.500000) rotate(90.000000) translate(-3967.500000, -367.500000) translate(3600.000000, -236.000000)" fill="#3B3B3B" opacity="0.2">
+                <g id="Group-3" transform="translate(367.500000, 603.603704) rotate(-90.000000) translate(-367.500000, -603.603704) translate(-235.500000, 236.103704)">
+                    <polygon id="Triangle" points="337.5 248 513 498 162 498"></polygon>
+                    <polygon id="Triangle" points="673.5 248 849 498 498 498"></polygon>
+                    <polygon id="Triangle" points="508.5 0 684 250 333 250"></polygon>
+                    <polygon id="Triangle" points="859.5 485 1035 735 684 735"></polygon>
+                    <polygon id="Triangle" points="1030.5 237 1206 487 855 487"></polygon>
+                    <polygon id="Triangle" points="511.5 485 687 735 336 735"></polygon>
+                    <polygon id="Triangle" points="175.5 485 351 735 0 735"></polygon>
+                </g>
+            </g>
+            <g id="Group-6" transform="translate(4658.000000, 1052.500000) rotate(-90.000000) translate(-4658.000000, -1052.500000) translate(4236.000000, 362.000000)">
+                <rect id="Rectangle" stroke="#463EA9" stroke-width="18" transform="translate(562.500000, 1099.500000) rotate(45.000000) translate(-562.500000, -1099.500000) " x="373" y="910" width="379" height="379"></rect>
+                <g id="Group-3" transform="translate(367.500000, 603.603704) rotate(-90.000000) translate(-367.500000, -603.603704) translate(-235.500000, 236.103704)">
+                    <polygon id="Triangle" fill="#FFFFFF" points="337.5 248 513 498 162 498"></polygon>
+                    <polygon id="Triangle" fill="#FFFFFF" points="673.5 248 849 498 498 498"></polygon>
+                    <polygon id="Triangle" fill="#FFFFFF" points="508.5 0 684 250 333 250"></polygon>
+                    <polygon id="Triangle" fill="#3B3B3B" points="859.5 485 1035 735 684 735"></polygon>
+                    <polygon id="Triangle" fill="#FFFFFF" points="1030.5 237 1206 487 855 487"></polygon>
+                    <polygon id="Triangle" fill="#3B3B3B" points="511.5 485 687 735 336 735"></polygon>
+                    <polygon id="Triangle" fill="#3B3B3B" points="175.5 485 351 735 0 735"></polygon>
+                </g>
+            </g>
+            <g id="Group-3" transform="translate(3267.500000, 1082.500000) scale(1, -1) rotate(-180.000000) translate(-3267.500000, -1082.500000) translate(2750.000000, 590.000000)">
+                <polygon id="Triangle" fill="#3B3B3B" points="337.5 248 513 498 162 498"></polygon>
+                <polygon id="Triangle" fill="#3B3B3B" opacity="0.2" points="673.5 248 849 498 498 498"></polygon>
+                <polygon id="Triangle" fill="#3B3B3B" opacity="0.2" points="508.5 3.97903932e-13 684 250 333 250"></polygon>
+                <polygon id="Triangle" fill="#3B3B3B" points="859.5 485 1035 735 684 735"></polygon>
+                <polygon id="Triangle" fill="#3B3B3B" points="511.5 485 687 735 336 735"></polygon>
+                <polygon id="Triangle" fill="#3B3B3B" points="175.5 485 351 735 0 735"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" transform="translate(175.500000, 860.000000) scale(1, -1) translate(-175.500000, -860.000000) " points="175.5 735 351 985 0 985"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" transform="translate(523.500000, 860.000000) scale(1, -1) translate(-523.500000, -860.000000) " points="523.5 735 699 985 348 985"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" transform="translate(859.500000, 860.000000) scale(1, -1) translate(-859.500000, -860.000000) " points="859.5 735 1035 985 684 985"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

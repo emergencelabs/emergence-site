@@ -1,18 +1,15 @@
-import NavButton from "../components/nav-button";
-import AdjustIcon from "../components/icons/adjust";
+import NavButton from "../components/nav-button"
 export default function Nav() {
   return (
-    <nav className="flex justify-between my-8 p-4 items-center">
-      <div className="flex">
-        <NavButton href="/" label="Home" />
-        <div className="flex justify-around">
-          <NavButton href="/blog" label="Blog" />
-          <NavButton href="/about" label="About" />
-        </div>
+    <nav className="flex justify-between my-4 px-12 items-center">
+      <div style={{ flexBasis: "25%" }}>
+        <img src="/assets/emergence.svg" alt="Emergence Labs Wordmark Logo" />
       </div>
-      <button className="w-5 h-5 opacity-75 hover:opacity-100 transform -translate-x-full">
-        <AdjustIcon />
-      </button>
+      <div>
+        <NavButton href="/about" label="About" />
+        <NavButton href="/blog" label="Services" />
+        <NavButton href="/blog" label="Contact Us" />
+      </div>
     </nav>
-  );
+  )
 }

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="183px" height="50px" viewBox="0 0 183 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="35.2653061%" x2="101.999998%" y2="65.0293875%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-2">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-829.000000, -584.000000)">
+            <g id="Group-5" transform="translate(829.000000, 584.000000)">
+                <g id="fast-forward" transform="translate(102.000000, 16.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                    <path d="M0,0 L18,9.5 L0,19 L0,0 Z M17,0 L35,9.5 L17,19 L17,0 Z" id="Shape"></path>
+                </g>
+                <path d="M86.1026224,38.0007142 L-2.7000624e-13,38 L-7.03437308e-13,30 L83.6819614,30.0010147 C84.0295612,32.8470717 84.8651927,35.5423827 86.1026224,38.0007142 Z M-2.7000624e-13,16 L86.1022362,16.0000531 C84.5783042,19.0278277 83.6638621,22.4150562 83.5200111,26.0006372 L-7.03437308e-13,26 L-2.7000624e-13,16 Z" id="Combined-Shape" fill="#5E5E5D"></path>
+                <path d="M182.999638,37.9998912 L148.360818,38 L148.360818,30 L182.025934,30.0001762 C182.165732,32.8462247 182.501864,35.5415398 182.999638,37.9998912 Z M148.360818,16 L183,15.9983193 C182.386802,19.0260951 182.018812,22.4133884 181.960848,25.9990758 L148.360818,26 L148.360818,16 Z" id="Combined-Shape" fill="#5E5E5D" transform="translate(165.680409, 26.999160) scale(-1, 1) translate(-165.680409, -26.999160) "></path>
+                <g id="Group" transform="translate(92.000000, 0.000000)" fill="url(#linearGradient-2)" fill-rule="nonzero">
+                    <path d="M25,50 C11.1928813,50 0,38.8071187 0,25 C0,11.1928813 11.1928813,0 25,0 C38.8071187,0 50,11.1928813 50,25 C49.9822359,38.7997539 38.7997539,49.9822359 25,50 L25,50 Z M25,2.37532244 C12.5344156,2.37532244 2.42906277,12.4806753 2.42906277,24.9462597 C2.42906277,37.4118441 12.5344156,47.5171969 25,47.5171969 C37.4655844,47.5171969 47.5709372,37.4118441 47.5709372,24.9462597 C47.5296485,12.4978177 37.448442,2.41661115 25,2.37532244 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
